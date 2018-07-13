@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+	<g id="_x34_.png_1_">
+		<radialGradient id="SVGID_1_" cx="134.2447" cy="-25.4812" r="491.8361" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#CCD3E0"/>
+			<stop  offset="0.201" style="stop-color:#9CA2AC"/>
+			<stop  offset="0.5943" style="stop-color:#51555D"/>
+			<stop  offset="0.8694" style="stop-color:#20232A"/>
+			<stop  offset="1" style="stop-color:#000000"/>
+		</radialGradient>
+		<path style="display:inline;fill:url(#SVGID_1_);" d="M299.172,13.482c-157.696,0-285.498,127.823-285.498,285.523 c0,157.696,127.801,285.497,285.498,285.497c157.707,0,285.508-127.8,285.508-285.497C584.68,141.305,456.88,13.482,299.172,13.482 z M299.169,487.792c-105.677,0-191.346-84.523-191.346-188.778c0-104.28,85.669-188.823,191.346-188.823 c105.689,0,191.363,84.543,191.363,188.823C490.532,403.269,404.858,487.792,299.169,487.792z"/>
+	</g>
+</svg>

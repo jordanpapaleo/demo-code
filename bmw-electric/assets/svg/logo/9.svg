@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+	<g id="_x39_.png_1_">
+		<g id="_x39_.png_3_" style="display:inline;">
+			<polygon points="310.654,102.556 329.725,50.062 330.468,103.184 348.34,106.01 347.13,30.166 322.355,27.34 302.32,81.221 302.531,81.221 282.462,27.34 257.659,30.166 256.448,106.01 274.351,103.184 275.095,50.062 294.178,102.556"/>
+			<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="256.6047" y1="100.6335" x2="343.9" y2="29.0388">
+				<stop  offset="0.4908" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.5991" style="stop-color:#F3F4F4"/>
+				<stop  offset="0.7834" style="stop-color:#DDDEDF"/>
+				<stop  offset="1" style="stop-color:#BCBEC0"/>
+			</linearGradient>
+			<polygon style="fill:url(#SVGID_10_);" points="306.993,100.044 326.064,47.55 326.808,100.672 344.68,103.498 343.47,27.654 318.695,24.827 298.66,78.709 298.871,78.709 278.824,24.827 254.021,27.654 252.81,103.498 270.713,100.672 271.457,47.55 290.539,100.044"/>
+		</g>
+	</g>
+</svg>

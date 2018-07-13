@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+	<g id="_x31_0.png_1_">
+		<g id="_x31_0.png" style="display:inline;">
+			<polygon points="516.142,134.177 490.43,171.713 530.812,151.808 539.558,167.19 475.041,196.912 465.302,181.336 489.988,144.159 489.856,143.998 448.816,161.529 434.914,148.29 476.211,91.508 489.674,102.435 462.846,138.584 504.347,120.065"/>
+			<g>
+				<linearGradient id="SVGID_11_" gradientUnits="userSpaceOnUse" x1="431.2536" y1="142.1983" x2="535.8978" y2="142.1983">
+					<stop  offset="0.2331" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.3962" style="stop-color:#F3F4F4"/>
+					<stop  offset="0.6738" style="stop-color:#DDDEDF"/>
+					<stop  offset="1" style="stop-color:#BCBEC0"/>
+				</linearGradient>
+				<polygon style="fill:url(#SVGID_11_);" points="513.358,133.214 486.77,169.701 527.152,149.797 535.898,165.178 471.381,194.9 461.641,179.325 486.328,142.147 486.196,141.987 445.156,159.518 431.254,146.279 472.551,89.497 486.014,100.423 459.186,136.573 501.563,119.102"/>
+			</g>
+		</g>
+	</g>
+</svg>

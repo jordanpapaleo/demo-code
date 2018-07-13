@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+	<g id="_x36_.png_1_">
+		<linearGradient id="_x36_.png_2_" gradientUnits="userSpaceOnUse" x1="85.7758" y1="85.5928" x2="509.7681" y2="509.5851">
+			<stop  offset="0.1166" style="stop-color:#DCDDDE"/>
+			<stop  offset="0.182" style="stop-color:#D2D4D5"/>
+			<stop  offset="0.2982" style="stop-color:#B9BBBD"/>
+			<stop  offset="0.4479" style="stop-color:#939598"/>
+			<stop  offset="0.5828" style="stop-color:#939598"/>
+			<stop  offset="0.8957" style="stop-color:#D1D3D4"/>
+		</linearGradient>
+		<path id="_x36_.png_3_" style="display:inline;fill:url(#_x36_.png_2_);" d="M299.172,4.333C134.521,4.333,1,136.25,1,299.005 c0,162.733,133.521,294.662,298.172,294.662c164.685,0,298.184-131.929,298.184-294.662 C597.356,136.25,463.857,4.333,299.172,4.333z M299.167,585.834c-158.411,0-286.826-128.428-286.826-286.831 c0-158.425,128.415-286.837,286.826-286.837c158.414,0,286.847,128.412,286.847,286.837 C586.015,457.406,457.581,585.834,299.167,585.834z"/>
+	</g>
+</svg>

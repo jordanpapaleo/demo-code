@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+	<g id="_x33_.png_1_">
+		<g style="display:inline;">
+			<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="390.3399" y1="120.5443" x2="390.3399" y2="296.4338">
+				<stop  offset="0.7423" style="stop-color:#FFFFFF"/>
+				<stop  offset="1" style="stop-color:#E6E7E8"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_5_);" d="M302.364,295.78h175.952c-1.71-96.428-79.521-174.2-175.952-175.889V295.78z"/>
+			<g>
+				<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="348.5689" y1="170.9356" x2="391.2748" y2="297.1693">
+					<stop  offset="0" style="stop-color:#FFFFFF"/>
+					<stop  offset="0.1067" style="stop-color:#F7F8F8"/>
+					<stop  offset="0.2464" style="stop-color:#E9EAEB"/>
+					<stop  offset="0.4046" style="stop-color:#D3D4D6"/>
+					<stop  offset="0.5762" style="stop-color:#B3B5B7"/>
+					<stop  offset="0.7587" style="stop-color:#8D8F92"/>
+					<stop  offset="0.9476" style="stop-color:#616264"/>
+					<stop  offset="1" style="stop-color:#515254"/>
+				</linearGradient>
+				<polygon style="fill:url(#SVGID_6_);" points="305.752,120.174 305.752,292.701 478.264,292.701 478.387,296.06 302.398,296.06 302.398,119.86"/>
+				<linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="327.8022" y1="109.1973" x2="493.6003" y2="277.5075">
+					<stop  offset="0" style="stop-color:#EFF0F3"/>
+					<stop  offset="0.1067" style="stop-color:#E8EAEC"/>
+					<stop  offset="0.2464" style="stop-color:#DCDEE1"/>
+					<stop  offset="0.4046" style="stop-color:#C8CACE"/>
+					<stop  offset="0.5762" style="stop-color:#ACAFB2"/>
+					<stop  offset="0.7587" style="stop-color:#898C8F"/>
+					<stop  offset="0.9476" style="stop-color:#606163"/>
+					<stop  offset="1" style="stop-color:#515254"/>
+				</linearGradient>
+				<path style="fill:url(#SVGID_7_);" d="M475.146,292.702l3.241,3.307c-1.735-96.428-79.504-174.448-175.954-176.16l3.319,3.308 c91.968,3.314,165.967,77.251,169.348,169.229L475.146,292.702z"/>
+			</g>
+		</g>
+	</g>
+</svg>
